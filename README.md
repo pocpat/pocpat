@@ -35,7 +35,7 @@
   </a>
 
   <!-- Prisma Icon -->
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <a href="[https://www.prisma.io/](https://vectorwiki.com/logo/prisma)" target="_blank" rel="noreferrer">
     <img src="URL-TO-PRISMA-ICON" alt="Prisma" width="40" height="40" />
   </a>
 
