@@ -1,12 +1,3 @@
----
-title: "Font Awesome in R Markdown"
-output: html_document
----
-
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-
 
 <h1 align="center">Hi 👋 , Welcome to my coding corner! </h1>
 
@@ -33,7 +24,7 @@ library(fontawesome)
 
 // npm//
 <a href="https://icons8.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="npm" width="40" height="40"/> </a> 
-
+`r fa("r-project", fill = "steelblue")` H5 Heading
 
 
 
